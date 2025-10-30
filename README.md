@@ -1,12 +1,28 @@
-# App-Dev
-My first repository
-​"Earn this... Earn it."
-​A gripping, powerful, and unflinching look at the realities of war, directed by Steven Spielberg. The film is famous for its intense and realistic depiction of the D-Day landings at Omaha Beach.
-​Why It's My Favorite
-​The Opening Scene: The 27-minute opening battle is a cinematic masterpiece, capturing the chaos and terror of war in a way few films have ever dared.
-​The Story: A deeply human mission—to find one man in the middle of a war zone—that questions the costs and sacrifices of conflict.
-​The Performances: Tom Hanks is incredible as Captain Miller, a man just trying to complete his mission and get home. The entire supporting cast, including Matt Damon, is outstanding.
-​Key Details
-​Director: Steven Spielberg
-​Starring: Tom Hanks, Tom Sizemore, Edward Burns, and Matt Damon
-​My Rating: 10/10
+# Saving Private Ryan
+
+**Saving Private Ryan** is a *1998 war film* directed by **Steven Spielberg**.  
+It follows Captain John Miller and his squad as they venture into war-torn France to find and bring home *Private James Ryan*, the last surviving brother of four soldiers.
+
+> "Earn this." – Captain Miller
+
+---
+
+## Key Highlights
+1. Realistic portrayal of World War II
+2. Emotional depth and moral complexity
+3. Award-winning direction and cinematography
+
+---
+
+### Main Cast
+- Tom Hanks as Captain John Miller  
+- Matt Damon as Private James Ryan  
+- Tom Sizemore as Sergeant Horvath  
+- Edward Burns as Private Reiben  
+
+---
+
+### Learn More
+[More about Saving Private Ryan](https://www.imdb.com/title/tt0120815/)
+
+![Saving Private Ryan Poster](https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg)
